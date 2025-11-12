@@ -44,8 +44,6 @@ The documentation consists of:
 - Frame object specifications
 - Decorator API guide
 - Pipeline workflow
-- Capabilities and use cases
-- Best practices
 
 ## Contributing
 
